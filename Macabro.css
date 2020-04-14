@@ -18,7 +18,7 @@
 }
 
 :root {
-	--bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
+	--bgImage: url();
 	--HomeButtonImg: url(https://arudarin.github.io/themes/neutron/import/homeBtn.png);
 	--brightness: 0.4;
 	--customFont: 'Montserrat';
